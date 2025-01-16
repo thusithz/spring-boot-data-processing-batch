@@ -1,0 +1,4 @@
+
+{"timestamp":"2024-01-11T10:00:00Z", "service":"web-server", "host":"server1", "status":"info", "metrics":{"cpu":75.5,"memory":82.3,"requests":1500,"response_time":250}}
+{"timestamp":"2024-01-11T10:00:00Z", "service":"web-server", "host":"server2", "status":"info", "metrics":{"cpu":45.2,"memory":60.1,"requests":800,"response_time":150}}
+{"timestamp":"2024-01-11T10:05:00Z", "service":"web-server", "host":"server1", "status":"warning", "metrics":{"cpu":92.1,"memory":88.5,"requests":2000,"response_time":450}}
