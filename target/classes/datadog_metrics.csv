@@ -1,6 +1,0 @@
-
-serverId,timestamp,cpuUsage,memoryUsage,requestCount,responseTime
-server1,2024-01-11T10:00:00,75.5,82.3,1500,250
-server2,2024-01-11T10:00:00,45.2,60.1,800,150
-server1,2024-01-11T10:05:00,92.1,88.5,2000,450
-server2,2024-01-11T10:05:00,50.3,65.2,900,180
